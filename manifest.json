@@ -1,0 +1,21 @@
+{
+    "manifest_version": 3,
+    "name": "ChatGPT Message Splitter",
+    "version": "1.0",
+    "description": "Uma extensão que insere texto em um input e clica em um botão.",
+    "permissions": [
+      "activeTab",
+      "scripting",
+      "storage"
+    ],
+    "host_permissions": [
+        "https://chatgpt.com/",
+        "https://chatgpt.com/c/*"
+    ],
+    "action": {
+      "default_popup": "popup.html"
+    },
+    "background": {
+      "service_worker": "background.js"
+    }
+}
