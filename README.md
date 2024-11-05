@@ -2,23 +2,23 @@
 
 Transform your lengthy rants into bite-sized ChatGPT-friendly chunks! 📄✂️
 
-## Problema que isso resolve
+## Problem It Solves
 
-Já tentou enviar uma novela para o ChatGPT e foi recebido com um "Ops, muito texto"? 😅 A extensão ChatGPT Message Splitter está aqui para salvar o dia! Ela divide automaticamente suas mensagens gigantes em pedaços menores, garantindo que suas conversas com o ChatGPT sejam tão suaves quanto um café quentinho. ☕✨
+Have you tried sending a novel to ChatGPT and received an "Oops, too much text"? 😅 The ChatGPT Message Splitter extension is here to save the day! It automatically splits your giant messages into smaller pieces, ensuring that your conversations with ChatGPT are as smooth as a hot coffee. ☕✨
 
-## Funcionalidades
+## Features
 
-- ✂️ Divide textos longos em chunks com base no número de parágrafos especificados.
-- 💾 Armazena configurações localmente.
-- 🤖 Automatiza o envio de cada chunk para o ChatGPT.
+- ✂️ Splits long texts into chunks based on the specified number of paragraphs.
+- 💾 Stores settings locally.
+- 🤖 Automates sending each chunk to ChatGPT.
 
-## Como Usar
+## How to Use
 
-1. 🛠️ Instale a extensão no Chrome.
-2. 💬 Mande a primeira mensagem na conversa com o ChatGPT.
-3. 🖱️ Abra o popup clicando no ícone da extensão.
-4. 📝 Insira o texto que deseja dividir na área de texto.
-5. 🎚️ Defina o número de parágrafos por chunk.
-6. 🚀 Clique em "Enviar" para dividir e enviar o texto automaticamente.
+1. 🛠️ Install the extension in Chrome.
+2. 💬 Send the first message in the conversation with ChatGPT.
+3. 🖱️ Open the popup by clicking the extension icon.
+4. 📝 Enter the text you want to split in the text area.
+5. 🎚️ Set the number of paragraphs per chunk.
+6. 🚀 Click "Send" to automatically split and send the text.
 
-Divirta-se conversando com o ChatGPT sem se preocupar com limites de tamanho! 🎉
+Enjoy chatting with ChatGPT without worrying about size limits! 🎉
