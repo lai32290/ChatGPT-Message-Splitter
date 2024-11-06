@@ -31,4 +31,4 @@ We may update this Privacy Policy periodically. Any changes will be posted on th
 
 ## 6. Contact
 
-If you have any questions or concerns about this Privacy Policy, please contact us at: **your-email@example.com**
+If you have any questions or concerns about this Privacy Policy, please contact us at: **lai32690@gmail.com**
